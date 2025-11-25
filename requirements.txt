@@ -1,12 +1,15 @@
 streamlit
-pymupdf
+pymupdf==1.24.10
 python-dotenv
 gtts
 plotly
 
-google-generativeai==0.8.3
-langchain-google-genai==1.0.5
+# Google GenAI versions compatible with LC
+google-generativeai==0.5.4
+google-ai-generativelanguage==0.6.4
 
-langchain==0.3.7
-langchain-core==0.3.24
-langchain-community==0.3.4
+# LangChain compatibility set
+langchain==0.2.11
+langchain-core==0.2.26
+langchain-community==0.2.4
+langchain-google-genai==1.0.5
