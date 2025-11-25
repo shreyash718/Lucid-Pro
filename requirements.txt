@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+python-dotenv
+gtts
+plotly
